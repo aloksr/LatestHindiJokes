@@ -1,0 +1,49 @@
+<resources>
+
+
+        <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+     
+            <item name="colorPrimary">@color/ColorPrimary</item>
+            <item name="colorPrimaryDark">#a00707</item>
+            <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:colorAccent">#FF4081</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/text_color</item>
+    <item name="windowActionModeOverlay">true</item>
+    <item name="actionModeStyle">@style/CustomActionMode</item>
+        </style>
+
+    <style name="CustomActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <!--<item name="background">@drawable/gradient_toolbar_background</item>-->
+    </style>
+
+
+    <style name="MyDarkToolbarStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">#FFEC8B</item>
+        <item name="android:textColor">@color/ColorPrimary</item>
+    </style>
+
+    <style name="ToolbarTitle" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:popupMenuStyle">@style/PopupMenuListView</item>
+    </style>
+
+    <style name="PopupMenuListView" parent="@android:style/Widget.ListView.DropDown">
+        <item name="android:divider">@color/ColorPrimary</item>
+        <item name="android:dividerHeight">2dp</item>
+        <item name="android:actionBarDivider">@color/ColorPrimary</item>
+        <item name="android:popupBackground">@drawable/gradient_recycler_view_bg</item>
+        <item name="android:colorBackground">#FFEC8B</item>
+        <item name="android:textColor">@color/ColorPrimary</item>
+        <item name="android:textSize">15sp</item>
+
+
+
+    </style>
+
+</resources>
+
+
+

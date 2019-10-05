@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_434e4bf71e758f330365c42d9070634930c07327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_8d3c70380c5bc8d0aecba1304337a65eb47b402f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_b1e6dca7a183b7b6320090fb5d7fc74649d5b0cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_3121c05961e1f30cbc5e591dccdee00dc68ee565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_74e3f0d858a7f844eb35e63f219bb05777be2de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_55f6346ad921b907f4ab412a7d63f8de1bca16d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_561af77c891bea389cc0f38bd4f565d499484f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_ab392fb38515b2069fd871a71ff13090a505e84a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a9817dc0f001bf73983476c106953e048cd78eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c000eb48ab66755fecd5e7670e566b19b98aa099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4f37b4a6bb1bafe688a16de64e4378638f7807c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9433a4abef1522000f02333ecb594f8583835177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_baecff53814a826d317629246b88561354f32aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_e72266223e6e33d665c064daa2dbf98ab5666b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_34c8f036923ffec6526aed7735d0900d1769fab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_dd985b8659956ec7ad4df62904f030c8cccb8227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c11864d1c7bd3a4f6c8f61525a43ac750d2dcd1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_13eab51a1bb7b2b7b75ce39c10dfff393e45d0d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_b831018928066020f98d75c9891440b6e38d4ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_d42b6d98c56e538218f28c7559cd639ec756645b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ec4d031ec1299b1d1695550bcb90dbc4bcb749af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_edbb49343fabd39bd0a136bb8883e72ff128e68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ca03893ab87d6bdb0aadf162f51c409bdb0c165d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9c1988ee9f9e6a0edd7d2e594b9f075af244ec0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_931c241b657705fadc284596b8ee90799f204158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/alok/Downloads/AllHindiJokesFreeNavigation/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_89f6d0463f40dba4abf5e3e4e3caf43196f83f9d.jar" />
+    </item>
+
+</items>

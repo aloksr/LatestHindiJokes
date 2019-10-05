@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#ffffff</color>
+    <color name="text_color">#ffffff</color>
+    <color name="ColorPrimary">#B22222</color>
+    <color name="ColorPrimaryDark">#B0E0E6</color>
+    <color name="textViewColor">#FFB6C1</color>
+    <color name="cardViewColor">#CD8C95</color>
+    <color name="lemon_yellow">#fbfba8</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#ffff0000</color>
+    <color name="deep_pink">#CD1076</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="magenta">#8B008B</color>
+    <color name="dark_violet">#9400D3</color>
+    <color name="indigo">#4B0082</color>
+    <color name="cadet_blue">#8EE5EE</color>
+    <color name="spring_green">#008B45</color>
+    <color name="forest_green">#228B22</color>
+    <color name="lime_green">#00FF00</color>
+    <color name="lawn_green">#7CFC00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="menu_bg">#B0E0E6</color>
+    <color name="list_text_color">#00688B</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="dialogBox">#d48f36</color>
+    <color name="box_button">#000000</color>
+    <color name="box_button2">#035c85</color>
+    <color name="box_button1">#a00707</color>
+
+    <color name="color">#000000</color>
+
+</resources>
